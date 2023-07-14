@@ -12,7 +12,6 @@ This particular file will include any additional documentation necessary to expl
 ### Files used
 python bikeshare.py
 
-##Files Included
 
 In addition to the bikeshare.py program, you will also find the following csv datafiles:
 

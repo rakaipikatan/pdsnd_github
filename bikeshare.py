@@ -189,7 +189,7 @@ def time_stats(df, month, day):
 
 
 def station_stats(df):
-    """Displays statistics on the most popular stations and trip.
+    """Displays statistics on the most popular stations & trip.
 
     Arguments:
         (df) - data filtered by user selection of which city and what month(s)/day(s) to examine
